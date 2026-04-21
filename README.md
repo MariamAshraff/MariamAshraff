@@ -5,12 +5,12 @@
 ---
 
 ### 💫 About Me
-I am a Software Engineering graduate and an **ITI 5-Month Full Stack .NET Track** participant. I’m passionate about building scalable backend systems and crafting "Glassmorphism" & Clean UI/UX frontend experiences. I love bridging the gap between complex logic and elegant design.
+I am a Software Engineering graduate and an **ITI 5-Month Full Stack .NET Track** participant. I’m passionate about building scalable backend systems and crafting "Glassmorphism" & frontend experiences. I love bridging the gap between complex logic and elegant design.
 
 - 📍 Based in **Cairo, Egypt**
 - 🎓 CS Graduate with **GPA 3.4 (Very Good)** | Graduation Project: **Excellent (A+)**
 - 🚀 Currently focusing on **Enterprise-level .NET APIs & Angular 20**
-- 💡 Fun fact: I've worked on everything from **ADAS Systems** in Rust to **Luxury Hotel Branding**.
+- 💡 Fun fact: I've worked on everything from **ADAS Systems** to **HealthCare system**.
 
 ---
 
@@ -36,7 +36,7 @@ I am a Software Engineering graduate and an **ITI 5-Month Full Stack .NET Track*
 *Angular 20 | Bootstrap 5*
 - Luxury-themed booking app with advanced filtering and responsive "Clean UI".
 
-#### 💎 [Jewelry Store]([https://github.com/Mariam-Ashraf/Jewelry-Store](https://github.com/BasmallaMabrouk/jewelry-store))
+#### 💎 [Jewelry Store](https://github.com/BasmallaMabrouk/jewelry-store)
 *Vanilla JavaScript | CSS3 | Firebase (Firestore & Auth)*
 - Built a high-end e-commerce experience for elegant accessories with a focus on **Luxury UI/UX**.
 - Integrated **Firebase Authentication** for user management and **Firestore** for real-time product data handling.
@@ -53,10 +53,6 @@ I am a Software Engineering graduate and an **ITI 5-Month Full Stack .NET Track*
 
 ### 📫 Connect with me
 - **Email:** [mariamashrafff163@gmail.com](mailto:mariamashrafff163@gmail.com)
-- **LinkedIn:** [Mariam Ashraf](https://linkedin.com/in/mariam-ashraf)
+- **LinkedIn:** [Mariam Ashraf](https://www.linkedin.com/in/mariam-ashraf-2a23b7237/)
 - **Phone:** [+201208913396](tel:+201208913396)
 
----
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
